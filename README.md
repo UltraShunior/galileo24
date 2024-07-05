@@ -24,7 +24,7 @@ Este repositorio contiene soluciones en Java para ejercicios de la materia "Proy
 
 ## Contribuciones
 
-Si eres estudiante de la materia y deseas contribuir con soluciones alternativas o mejoras a las existentes, ¡sos bienvenido! Por favor, crea un "fork" del repositorio, realiza tus cambios y envía un "pull request".
+Si sos estudiante de la materia y deseas contribuir con soluciones alternativas o mejoras a las existentes, ¡bienvenido seas! Por favor, crea un "fork" del repositorio, realiza tus cambios y envía un "pull request".
 
 ## Contacto
 
@@ -34,10 +34,6 @@ Si tenes alguna pregunta o comentario, podes contactar al Prof. Nahuel Bogado a 
 
 ---
 
-**Información Adicional (Opcional):**
-
-* **Requisitos:** Especificar las versiones de Java y cualquier biblioteca externa necesaria.
-
 **Ejemplo de Carpeta de Ejercicio:**
 
 ```
@@ -46,5 +42,5 @@ Guía01/
 ├── Ejercicio1_Auto/
 └── Ejercicio2_Calculadora/
     ├── Calculadora.java
-    └── enunciado.txt 
+    └── enunciado.txt
 ```
